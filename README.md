@@ -28,7 +28,8 @@
 
 ## GitHub Estatísticas ⭐
 
-[![card](https://github-readme-stats.vercel.app/api?username=andrewferraz&hide=issues&theme=react&show_icons=true&line_height=24.5)](https://github.com/andrewferraz/)
-
-
-[![andrewferraz](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewferraz&layout=compact&theme=react)](https://github.com/andrewferraz/)
+<div>
+  <a href="https://github.com/andrewferraz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewferraz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewferraz&layout=compact&langs_count=16&theme=react"/>
+<div>
