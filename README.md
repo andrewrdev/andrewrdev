@@ -21,7 +21,6 @@
   ![PHP](https://img.shields.io/badge/PHP-4f5b93?style=flat&logo=php&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
   ![VSCODE](https://img.shields.io/badge/-Visual%20Studio%20Code-181717?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
   
 
 ## GitHub Stats ⭐
