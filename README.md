@@ -30,3 +30,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrewrdev&show_icons=true&theme=react&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrdev&layout=compact&langs_count=16&theme=react"/>
 <div>
+ 
+ ## Profile Views 💹
+ 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/andrewrdev/count.svg" />
+ </p>
