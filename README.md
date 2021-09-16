@@ -6,7 +6,7 @@
  
 ## Skills 🚀
 
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+  
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-8412fb?style=flat&logo=css3&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -20,6 +20,7 @@
   ![PHOTOSHOP](https://img.shields.io/badge/Photoshop-181717?style=flat&logo=adobe-photoshop&logoColor=007ACC)
   ![PHP](https://img.shields.io/badge/PHP-4f5b93?style=flat&logo=php&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+  ![React](https://img.shields.io/badge/React-181717?style=flat&logo=react&logoColor=61DAFB)
   ![VSCODE](https://img.shields.io/badge/-Visual%20Studio%20Code-181717?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 
