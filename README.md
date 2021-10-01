@@ -2,7 +2,15 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 💼 &nbsp; **Software Developer**.
-- 🎓 &nbsp; Aprendendo mais sobre **Desenvolvimento FullStack**.
+- 🎓 &nbsp; Aprendendo mais sobre **Desenvolvimento FullStack**.  
+
+## GitHub Stats ⭐
+
+<div>
+  <a href="https://github.com/andrewferraz">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrewrdev&show_icons=true&theme=react&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrdev&layout=compact&langs_count=16&theme=react"/>
+<div>
  
 ## Skills 🚀
 
@@ -23,14 +31,6 @@
   ![React](https://img.shields.io/badge/React-181717?style=flat&logo=react&logoColor=61DAFB)
   ![VSCODE](https://img.shields.io/badge/-Visual%20Studio%20Code-181717?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-
-## GitHub Stats ⭐
-
-<div>
-  <a href="https://github.com/andrewferraz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrewrdev&show_icons=true&theme=react&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrdev&layout=compact&langs_count=16&theme=react"/>
-<div>
  
  ## Profile Views 💹
  
