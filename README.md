@@ -1,8 +1,8 @@
 ## Hello, World! 🖖
 
-- 🤔 &nbsp; Explorando novas tecnologias.
+- 🤔 &nbsp; Exploring new technologies.
 - 💼 &nbsp; **Software Developer**.
-- 🎓 &nbsp; Aprendendo mais sobre **Desenvolvimento FullStack**.  
+- 🎓 &nbsp; Learning more about **FullStack Development**.  
 
 ## GitHub Stats ⭐
 
