@@ -27,6 +27,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL-01638a?style=for-the-badge&logo=mysql&logoColor=white)
   ![PHOTOSHOP](https://img.shields.io/badge/Photoshop-181717?style=for-the-badge&logo=adobe-photoshop&logoColor=007ACC)
   ![PHP](https://img.shields.io/badge/PHP-4f5b93?style=for-the-badge&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-2b7eb2?style=for-the-badge&logo=python&logoColor=fbd35a)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![VSCODE](https://img.shields.io/badge/-Visual%20Studio%20Code-181717?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
