@@ -1,40 +1,33 @@
 ## Hello, World! 🖖
-
-- 🤔 &nbsp; Exploring new technologies.
-- 💼 &nbsp; **Software Developer**.
-- 🎓 &nbsp; Learning more about **FullStack Development**.  
-
-## GitHub Stats ⭐
-
-<div>
-  <a href="https://github.com/andrewferraz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrewrdev&show_icons=true&theme=react&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrdev&layout=compact&langs_count=16&theme=react"/>
-<div>
- 
-## Skills 🚀
-
+<div align="center">
+  <a href="https://github.com/andrewrdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewrdev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrdev&layout=compact&langs_count=7&theme=react"/>
+</div>
   
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-303030?style=flat-square&logo=css3&logoColor=8412fb)
-  ![CSS](https://img.shields.io/badge/CSS3-303030?style=flat-square&logo=css3&logoColor=1572B6)
-  ![GIT](https://img.shields.io/badge/Git-303030?style=flat-square&logo=git&logoColor=F05032)
-  ![GITHUB](https://img.shields.io/badge/GitHub-303030?style=flat-square&logo=github&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-303030?style=flat-square&logo=html5&logoColor=ff5722)
-  ![Java](https://img.shields.io/badge/Java-303030?style=flat-square&logo=java&logoColor=00779a)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-303030?style=flat-square&logo=javascript&logoColor=F7DF1E)
-  ![Linux](https://img.shields.io/badge/Linux-303030?style=flat-square&logo=linux&logoColor=F7DF1E)
-  ![JQuery](https://img.shields.io/badge/jQuery-303030?style=flat-square&logo=jquery&logoColor=0869ae)
-  ![MySQL](https://img.shields.io/badge/MySQL-303030?style=flat-square&logo=mysql&logoColor=01638a)
-  ![PHOTOSHOP](https://img.shields.io/badge/Photoshop-303030?style=flat-square&logo=adobe-photoshop&logoColor=007ACC)
-  ![PHP](https://img.shields.io/badge/PHP-303030?style=flat-square&logo=php&logoColor=4f5b93)
-  ![Python](https://img.shields.io/badge/Python-303030?style=flat-square&logo=python&logoColor=3776AB)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-303030?style=flat-square&logo=postgresql&logoColor=007ACC)
-  ![React](https://img.shields.io/badge/React-303030?style=flat-square&logo=react&logoColor=61DAFB)
-  ![VSCODE](https://img.shields.io/badge/-Visual%20Studio%20Code-303030?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+## Skills
+<div style="display: inline_block"><br>
   
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+  
+</div>
  
- ## Profile Views 💹
+<div> 
+  
+  ![Snake animation](https://github.com/andrewrdev/andrewrdev/blob/output/github-contribution-grid-snake.svg)
  
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/andrewrdev/count.svg" />
- </p>
+</div>
