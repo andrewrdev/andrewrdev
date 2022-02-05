@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrdev&hide=hack,shell&layout=compact&langs_count=7&theme=react"/>
 </div>
   
-## Ferramentas e tecnologias
+## Languages & Tools
 <div style="display: inline_block"><br>
   
   <img align="center" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +33,7 @@
  
 </div>
   
-## Visitas no perfil
+## Profile Views
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/andrewrdev/count.svg" />
  </p>
