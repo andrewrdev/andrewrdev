@@ -1,50 +1,51 @@
 # Hello, World! 🖖
 
-- My name is Andrew Rodrigues, I'm FullStack Developer from Brazil !!! 🇧🇷
-- Welcome to my profile !!!
-#
-💻 Front-End
+Sou Andrew Rodrigues, desenvolvedor de software full stack!
 
-<div style="display: inline_block;">
-    <img align="center" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" height="30" width="40" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" title="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-    <img align="center" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+Desenvolvo sites e sistemas, trabalho com diversas tecnologias, sendo PHP, Java e JavaScript minha stack principal.
+
+Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
 
 #
-⚙️ Back-End
+📚 Linguagens, Frameworks, Bibliotecas
 
-<div style="display: inline_block;">
-    <img align="center" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="30" width="40" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" height="30" width="40" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-</div>
-
-#
-🛠️ Tools
-
-<div style="display: inline_block;">
-    <img align="center" height="30" width="40" title="Composer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
-    <img align="center" height="30" width="40" title="NPM" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-    <img align="center" height="30" width="40" title="GIT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" height="30" width="40" title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" height="30" width="40" title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img align="center" height="30" width="40" title="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-    <img align="center" height="30" width="40" title="Wordpress" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-</div>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 #
-📚 Learning
+💾 Banco de Dados
 
-<div style="display: inline_block;">
-    <img align="center" height="30" width="40" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-    <img align="center" height="30" width="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
-</div>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#
+🛠️ Ferramentas
+
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-181717.svg?style=for-the-badge&logo=sublime-text&logoColor=FF9800)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 #
 ✨ Stats
