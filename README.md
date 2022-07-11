@@ -15,6 +15,7 @@ Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
 ![Java](https://img.shields.io/badge/Java-2b2b2b.svg?style=flat&logo=java&logoColor=0473bd)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b.svg?style=flat&logo=javascript&logoColor=#2b2b2b)
 ![jQuery](https://img.shields.io/badge/jQuery-2b2b2b.svg?style=flat&logo=jquery&logoColor=1169ae)
+![Laravel](https://img.shields.io/badge/Laravel-2b2b2b.svg?style=flat&logo=laravel&logoColor=FF2D20)
 ![PHP](https://img.shields.io/badge/PHP-2b2b2b.svg?style=flat&logo=php&logoColor=#464b8a)
 ![React](https://img.shields.io/badge/React-2b2b2b.svg?style=flat&logo=react&logoColor=#2b2b2b)
 ![SASS](https://img.shields.io/badge/Sass-2b2b2b.svg?style=flat&logo=SASS&logoColor=#cd6799)
