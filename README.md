@@ -2,7 +2,7 @@
 
 Sou Andrew Rodrigues, desenvolvedor de software full stack!
 
-Desenvolvo sites e sistemas, trabalho com diversas tecnologias, sendo PHP, Java e JavaScript minha stack principal.
+Desenvolvo sites e sistemas, trabalho com diversas tecnologias, sendo PHP, e JavaScript minha stack principal.
 
 Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
 
