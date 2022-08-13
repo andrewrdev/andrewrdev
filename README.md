@@ -1,4 +1,4 @@
-# Hello, World! 🖖
+# echo 'Hello, World!';
 
 Sou Andrew Rodrigues, desenvolvedor de software full stack!
 
