@@ -35,6 +35,7 @@ Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
 ![Git](https://img.shields.io/badge/GIT-2b2b2b.svg?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-2b2b2b.svg?style=flat&logo=github&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-2b2b2b.svg?style=flat&logo=gulp&logoColor=CF4647)
+![Grunt](https://img.shields.io/badge/Grunt-2b2b2b.svg?style=flat&logo=grunt&logoColor=FAA918)
 ![Linux](https://img.shields.io/badge/Linux-2b2b2b?style=flat&logo=linux&logoColor=FCC624)
 ![NPM](https://img.shields.io/badge/NPM-2b2b2b.svg?style=flat&logo=npm&logoColor=CB3837)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-2b2b2b?style=flat&logo=ubuntu&logoColor=E95420)
