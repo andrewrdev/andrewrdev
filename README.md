@@ -16,15 +16,14 @@ Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
 ![jQuery](https://img.shields.io/badge/jQuery-2b2b2b.svg?style=flat&logo=jquery&logoColor=1169ae)
 ![Laravel](https://img.shields.io/badge/Laravel-2b2b2b.svg?style=flat&logo=laravel&logoColor=FF2D20)
 ![PHP](https://img.shields.io/badge/PHP-2b2b2b.svg?style=flat&logo=php&logoColor=#464b8a)
+![React](https://img.shields.io/badge/React-2b2b2b.svg?style=flat&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/Sass-2b2b2b.svg?style=flat&logo=SASS&logoColor=#cd6799)
 
 #
 💾 Banco de Dados
 
-![MariaDB](https://img.shields.io/badge/MariaDB-2b2b2b?style=flat&logo=mariadb&logoColor=012b64)
 ![MySQL](https://img.shields.io/badge/MySQL-2b2b2b.svg?style=flat&logo=mysql&logoColor=1e4c68)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-2b2b2b.svg?style=flat&logo=postgresql&logoColor=2f6792)
-![SQLite](https://img.shields.io/badge/SQLite-2b2b2b.svg?style=flat&logo=sqlite&logoColor=003b57)
 
 #
 🛠️ Ferramentas
