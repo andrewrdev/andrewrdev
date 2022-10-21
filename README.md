@@ -11,6 +11,7 @@ Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-2b2b2b.svg?style=flat&logo=bootstrap&logoColor=8713f4)
 ![CSS3](https://img.shields.io/badge/CSS3-2b2b2b.svg?style=flat&logo=css3&logoColor=264de4)
+![CSHARP](https://img.shields.io/badge/C%20Sharp-2b2b2b.svg?style=flat&logo=csharp&logoColor=239120)
 ![HTML5](https://img.shields.io/badge/HTML5-2b2b2b.svg?style=flat&logo=html5&logoColor=e54c21)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b.svg?style=flat&logo=javascript&logoColor=#2b2b2b)
 ![jQuery](https://img.shields.io/badge/jQuery-2b2b2b.svg?style=flat&logo=jquery&logoColor=1169ae)
@@ -24,6 +25,7 @@ Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
 
 ![MySQL](https://img.shields.io/badge/MySQL-2b2b2b.svg?style=flat&logo=mysql&logoColor=1e4c68)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-2b2b2b.svg?style=flat&logo=postgresql&logoColor=2f6792)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-2b2b2b.svg?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
 
 #
 🛠️ Ferramentas
