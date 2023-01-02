@@ -1,6 +1,6 @@
 # echo 'Hello, World!';
 
-Sou Andrew Rodrigues, desenvolvedor de software full stack!
+Sou Andrew Rodrigues, desenvolvedor de software Full-Stack!
 
 Desenvolvo sites e sistemas, trabalho com diversas tecnologias, sendo PHP, e JavaScript minha stack principal.
 
