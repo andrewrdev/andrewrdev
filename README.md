@@ -1,4 +1,7 @@
-# echo 'Hello, World!';
+# print 'Hello, World!';
+
+#
+###### pt-BR <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/749px-Flag_of_Brazil.svg.png" width="20px">
 
 Sou Andrew Rodrigues, desenvolvedor de software Full-Stack!
 
@@ -7,7 +10,16 @@ Desenvolvo sites e sistemas, trabalho com diversas tecnologias, sendo PHP, e Jav
 Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
 
 #
-📚 Linguagens, Frameworks, Bibliotecas
+###### en <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png" width="20px">
+
+I'm Andrew Rodrigues, Full-Stack software developer!
+
+I develop websites and systems, work with different technologies, with PHP and JavaScript being my main stack.
+
+I'm always looking for new challenges and new technologies to improve my skills.
+
+#
+📚 Main Stack
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-2b2b2b.svg?style=flat&logo=bootstrap&logoColor=8713f4)
 ![CSS3](https://img.shields.io/badge/CSS3-2b2b2b.svg?style=flat&logo=css3&logoColor=264de4)
@@ -20,13 +32,14 @@ Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
 ![SASS](https://img.shields.io/badge/Sass-2b2b2b.svg?style=flat&logo=SASS&logoColor=#cd6799)
 
 #
-💾 Banco de Dados
+💾 Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-2b2b2b.svg?style=flat&logo=mysql&logoColor=1e4c68)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-2b2b2b.svg?style=flat&logo=postgresql&logoColor=2f6792)
+![SQLite](https://img.shields.io/badge/SQLite-2b2b2b.svg?style=flat&logo=sqlite&logoColor=2f6792)
 
 #
-🛠️ Ferramentas
+🛠️ Tools
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-2b2b2b.svg?style=flat&logo=adobe%20illustrator&logoColor=ff9a00)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-2b2b2b.svg?style=flat&logo=adobe%20photoshop&logoColor=31a8ff)
@@ -39,7 +52,7 @@ Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
 ![NPM](https://img.shields.io/badge/NPM-2b2b2b.svg?style=flat&logo=npm&logoColor=CB3837)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-2b2b2b?style=flat&logo=ubuntu&logoColor=E95420)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-2b2b2b.svg?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![WordPress](https://img.shields.io/badge/WordPress-2b2b2b.svg?style=flat&logo=WordPress&logoColor=21759B)
+![WordPress](https://img.shields.io/badge/WordPress-2b2b2b.svg?style=flat&logo=WordPress&logoColor=003B57)
 
 #
 ✨ Stats
