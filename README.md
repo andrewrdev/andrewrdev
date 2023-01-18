@@ -1,10 +1,61 @@
+# print 'Hello, World!';
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andrewrdev&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andrewrdev&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrdev&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/749px-Flag_of_Brazil.svg.png" width="20px">
 
----
-[![](https://visitcount.itsvg.in/api?id=andrewrdev&icon=0&color=0)](https://visitcount.itsvg.in)
+Sou Andrew Rodrigues, desenvolvedor de software Full-Stack!
+
+Desenvolvo sites e sistemas, trabalho com diversas tecnologias, sendo PHP, e JavaScript minha stack principal.
+
+Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
+
+#
+📚 Main Stack
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2b2b2b.svg?style=for-the-badge&logo=bootstrap&logoColor=8713f4)
+![CSS3](https://img.shields.io/badge/CSS3-2b2b2b.svg?style=for-the-badge&logo=css3&logoColor=264de4)
+![HTML5](https://img.shields.io/badge/HTML5-2b2b2b.svg?style=for-the-badge&logo=html5&logoColor=e54c21)
+![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b.svg?style=for-the-badge&logo=javascript&logoColor=#2b2b2b)
+![jQuery](https://img.shields.io/badge/jQuery-2b2b2b.svg?style=for-the-badge&logo=jquery&logoColor=1169ae)
+![Laravel](https://img.shields.io/badge/Laravel-2b2b2b.svg?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-2b2b2b.svg?style=for-the-badge&logo=php&logoColor=#464b8a)
+![React](https://img.shields.io/badge/React-2b2b2b.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SASS](https://img.shields.io/badge/Sass-2b2b2b.svg?style=for-the-badge&logo=SASS&logoColor=#cd6799)
+
+#
+💾 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-2b2b2b.svg?style=for-the-badge&logo=mysql&logoColor=1e4c68)
+![Postgres](https://img.shields.io/badge/PostgreSQL-2b2b2b.svg?style=for-the-badge&logo=postgresql&logoColor=2f6792)
+![SQLite](https://img.shields.io/badge/SQLite-2b2b2b.svg?style=for-the-badge&logo=sqlite&logoColor=2f6792)
+
+#
+🛠️ Tools
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-2b2b2b.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=ff9a00)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-2b2b2b.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=31a8ff)
+![Composer](https://img.shields.io/badge/Composer-2b2b2b.svg?style=for-the-badge&logo=Composer&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-2b2b2b.svg?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-2b2b2b.svg?style=for-the-badge&logo=github&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-2b2b2b.svg?style=for-the-badge&logo=gulp&logoColor=CF4647)
+![Grunt](https://img.shields.io/badge/Grunt-2b2b2b.svg?style=for-the-badge&logo=grunt&logoColor=FAA918)
+![Linux](https://img.shields.io/badge/Linux-2b2b2b?style=for-the-badge&logo=linux&logoColor=FCC624)
+![NPM](https://img.shields.io/badge/NPM-2b2b2b.svg?style=for-the-badge&logo=npm&logoColor=CB3837)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-2b2b2b?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-2b2b2b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![WordPress](https://img.shields.io/badge/WordPress-2b2b2b.svg?style=for-the-badge&logo=WordPress&logoColor=003B57)
+
+#
+✨ Stats
+
+<div align="center">
+  <a href="https://github.com/andrewrdev">
+  <img height="160em" style="float:left;" src="https://github-readme-stats.vercel.app/api?username=andrewrdev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrdev&hide=hack,shell&layout=compact&langs_count=10&theme=react"/>
+</div>
+  
+# 
+💹 Profile Views
+    
+<div align="center">  
+     <img alingn="center" src="https://profile-counter.glitch.me/andrewrdev/count.svg" />
+</div>
