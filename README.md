@@ -2,12 +2,6 @@
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/749px-Flag_of_Brazil.svg.png" width="20px">
 
-Sou Andrew Rodrigues, desenvolvedor de software Full-Stack!
-
-Desenvolvo sites e sistemas, trabalho com diversas tecnologias, sendo PHP, e JavaScript minha stack principal.
-
-Sempre busco novos desafios e novas tecnologias para melhorar minhas skills.
-
 #
 📚 Main Stack
 
