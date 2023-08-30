@@ -3,17 +3,25 @@
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/749px-Flag_of_Brazil.svg.png" width="20px">
 
 #
-📚 Main Stack
+📚 Front-End
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-2b2b2b.svg?style=for-the-badge&logo=bootstrap&logoColor=8713f4)
-![CSS3](https://img.shields.io/badge/CSS3-2b2b2b.svg?style=for-the-badge&logo=css3&logoColor=264de4)
 ![HTML5](https://img.shields.io/badge/HTML5-2b2b2b.svg?style=for-the-badge&logo=html5&logoColor=e54c21)
+![CSS3](https://img.shields.io/badge/CSS3-2b2b2b.svg?style=for-the-badge&logo=css3&logoColor=264de4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2b2b2b.svg?style=for-the-badge&logo=bootstrap&logoColor=8713f4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b.svg?style=for-the-badge&logo=javascript&logoColor=#2b2b2b)
 ![jQuery](https://img.shields.io/badge/jQuery-2b2b2b.svg?style=for-the-badge&logo=jquery&logoColor=1169ae)
-![Laravel](https://img.shields.io/badge/Laravel-2b2b2b.svg?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![PHP](https://img.shields.io/badge/PHP-2b2b2b.svg?style=for-the-badge&logo=php&logoColor=#464b8a)
+![Angular](https://img.shields.io/badge/Angular-2b2b2b.svg?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/React-2b2b2b.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/Sass-2b2b2b.svg?style=for-the-badge&logo=SASS&logoColor=#cd6799)
+
+#
+📚 Back-End
+
+![Java](https://img.shields.io/badge/Java-2b2b2b.svg?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-2b2b2b.svg?style=for-the-badge&logo=php&logoColor=#464b8a)
+![Laravel](https://img.shields.io/badge/Laravel-2b2b2b.svg?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Spring](https://img.shields.io/badge/Spring-2b2b2b.svg?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Spring Boot](https://img.shields.io/badge/Spring.Boot-2b2b2b.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
 #
 💾 Database
