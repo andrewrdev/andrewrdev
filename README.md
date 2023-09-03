@@ -21,7 +21,7 @@
 ![PHP](https://img.shields.io/badge/PHP-2b2b2b.svg?style=for-the-badge&logo=php&logoColor=#464b8a)
 ![Laravel](https://img.shields.io/badge/Laravel-2b2b2b.svg?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Spring](https://img.shields.io/badge/Spring-2b2b2b.svg?style=for-the-badge&logo=spring&logoColor=6DB33F)
-![Spring Boot](https://img.shields.io/badge/Spring.Boot-2b2b2b.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2b2b2b.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
 #
 💾 Database
