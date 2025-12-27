@@ -39,18 +39,3 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-2b2b2b?style=flat&logo=ubuntu&logoColor=E95420)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-2b2b2b.svg?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-#
-✨ Stats
-
-<div align="center">
-  <a href="https://github.com/andrewrdev">
-  <img height="160em" style="float:left;" src="https://github-readme-stats.vercel.app/api?username=andrewrdev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewrdev&hide=hack,shell&layout=compact&langs_count=10&theme=react"/>
-</div>
-  
-# 
-💹 Profile Views
-    
-<div align="center">  
-     <img alingn="center" src="https://profile-counter.glitch.me/andrewrdev/count.svg" />
-</div>
